@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d6256dc66197fc91297c0ff1fb00f09d"
+    "revision": "51edf264e244965e52016d2ae7e48d16"
   },
   {
-    "url": "assets/css/0.styles.955caa6f.css",
-    "revision": "2bdea7a5e4db613744f0dbb7e904f38f"
+    "url": "assets/css/0.styles.5898a905.css",
+    "revision": "895379a1c4a5a710938deb9c337d6e69"
   },
   {
     "url": "assets/fonts/iconfont.938fa69e.woff",
@@ -70,12 +70,12 @@ self.__precacheManifest = [
     "revision": "4600eefc81a4e48c12c75559b46d867e"
   },
   {
-    "url": "assets/js/14.19de485d.js",
-    "revision": "3880b5e3b5013de8b2a3ce140082c682"
+    "url": "assets/js/14.8ae37b3e.js",
+    "revision": "c1e7cb81d8848746231138eb972c82f7"
   },
   {
-    "url": "assets/js/15.68118bfd.js",
-    "revision": "d61dfb8e26a7a77fc363df5e0336a195"
+    "url": "assets/js/15.4cddb04d.js",
+    "revision": "e22810b04ed701dc7e8aa81a89a53b1d"
   },
   {
     "url": "assets/js/16.ea30d575.js",
@@ -114,28 +114,28 @@ self.__precacheManifest = [
     "revision": "14eadc5a363a4b6747b07a38a9a61b22"
   },
   {
-    "url": "assets/js/app.b9921d0f.js",
-    "revision": "b0be4afb7408b4c6fe7d6731689b30d2"
+    "url": "assets/js/app.b8d87c5e.js",
+    "revision": "b25d40a450f11f942251b2328c6d482a"
   },
   {
     "url": "blogs/Efficiency/repository.html",
-    "revision": "db8a3763853b2706bbf913e40c47a041"
+    "revision": "d0b9e77096d276c9bb99fbd0cacb3127"
   },
   {
     "url": "blogs/Efficiency/website.html",
-    "revision": "9984a2560dc082ade5d039bc6fe7e7e0"
+    "revision": "99a60cd6d54055eb88d5acfa78f179ea"
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "af8d54822a2d7be2fb90e9a1cfccbd2c"
+    "revision": "bf00c3643bb5b820886debcda3fd3cd7"
   },
   {
     "url": "categories/index.html",
-    "revision": "c0da1259865396ce0edb6d1ef5ecc38b"
+    "revision": "33f7144c120cf0b3b6ee362e7b45d19a"
   },
   {
     "url": "categories/效率/index.html",
-    "revision": "f32413b0c555f280a9098f1a6741ec38"
+    "revision": "d6c37eb9666f552656aeada25cba48fd"
   },
   {
     "url": "fonts/AiDeep.otf",
@@ -459,7 +459,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6d9dc1d29f3ccc4ba951137a81a582e8"
+    "revision": "eb3b51a17c4345d09422f2dc5a36e8da"
   },
   {
     "url": "js/MouseClickEffect.js",
@@ -471,19 +471,19 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "d75f7507b6d4739209b3c4391db30c76"
+    "revision": "6c4d75b9b348aad18cf67aa8be57f72e"
   },
   {
     "url": "tag/库/index.html",
-    "revision": "b181fa221da7c8b4a2072dc7f3e64afb"
+    "revision": "8662225ca0deba73764b8b0a60650dde"
   },
   {
     "url": "tag/网站/index.html",
-    "revision": "a08ae32204a25e5d72e010db7aa2060b"
+    "revision": "f7d315e3ac12a93a2c5abffbe9022e55"
   },
   {
     "url": "timeline/index.html",
-    "revision": "f29cb64ef532134b627da9e3f796ab1c"
+    "revision": "6ed8c72c519504edf559f9d77630ca4f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
